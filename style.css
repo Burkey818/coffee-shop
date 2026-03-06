@@ -198,4 +198,8 @@ td {
 button {
     margin-top: 5px;
 }
-@media screen and (min-width: 300px) and (max-width: 450px)
+@media screen and (min-width: 300px) {
+body {
+    background-color: #6c3eb8;
+    }
+}
