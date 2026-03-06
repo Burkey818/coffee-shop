@@ -224,7 +224,7 @@ button {
 }
 .img {
     width: 150px;
-    height: 350px;
+    height: 225px;
 }
 p {
     font-size: 10px
@@ -243,4 +243,5 @@ h4 {
     width: 100px;
     border-width: 2px;
 }
+
 }
