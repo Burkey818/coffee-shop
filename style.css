@@ -105,6 +105,7 @@ img {
     font-family: 'Tengwar-Gandalf', sans-serif;
     font-size: x-large;
     color: #e3b341;
+    text-shadow: 2px 2px 5px red;
     display: flex;
     justify-content: center;
 }
@@ -113,7 +114,7 @@ img {
     justify-content: flex-start;
     padding-left: 15px;
 }
- .stars {
+.stars {
   color: gold;
   font-size: 30px;
   letter-spacing: 5px;
@@ -197,3 +198,5 @@ td {
 button {
     margin-top: 5px;
 }
+
+@media screen and (min-width: 480px) and (max-width: 768px)
